@@ -1,0 +1,12 @@
+
+.bottomLine  {
+	color: #FFFFFF;
+	background: #333333;
+	height:150px;
+	
+	border-top-color:#777777; 
+	border-top-style:solid; 
+	border-top-width:3px;
+    clear: both; 
+	font-size:12px;
+}

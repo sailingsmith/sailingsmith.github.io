@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技术资料 on 重庆宝元森仪表</title>
+    <link>http://www.bysyb.cn/categories/%E6%8A%80%E6%9C%AF%E8%B5%84%E6%96%99/</link>
+    <description>Recent content in 技术资料 on 重庆宝元森仪表</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright © &lt;a href=&#34;http://www.bysyb.cn/&#34;&gt;重庆宝元森仪表制造有限公司&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 29 Aug 2017 16:52:15 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.bysyb.cn/categories/%E6%8A%80%E6%9C%AF%E8%B5%84%E6%96%99/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>一般气体密度计算公式</title>
+      <link>http://www.bysyb.cn/post/rou1/</link>
+      <pubDate>Tue, 29 Aug 2017 16:52:15 +0800</pubDate>
+      
+      <guid>http://www.bysyb.cn/post/rou1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>智能液晶显示仪Modbus通讯协议</title>
+      <link>http://www.bysyb.cn/post/modbus2/</link>
+      <pubDate>Tue, 29 Aug 2017 16:52:15 +0800</pubDate>
+      
+      <guid>http://www.bysyb.cn/post/modbus2/</guid>
+      <description>智能液晶显示仪.MODBUS通讯协议.pdf 下载PDF</description>
+    </item>
+    
+    <item>
+      <title>智能表头MODBUS通讯协议</title>
+      <link>http://www.bysyb.cn/post/modbus1/</link>
+      <pubDate>Tue, 29 Aug 2017 16:52:15 +0800</pubDate>
+      
+      <guid>http://www.bysyb.cn/post/modbus1/</guid>
+      <description>智能表头.MODBUS通讯协议.1510.pdf 下载PDF</description>
+    </item>
+    
+    <item>
+      <title>智能表头使用说明书</title>
+      <link>http://www.bysyb.cn/post/manual-clx/</link>
+      <pubDate>Tue, 29 Aug 2017 16:52:15 +0800</pubDate>
+      
+      <guid>http://www.bysyb.cn/post/manual-clx/</guid>
+      <description>参数设置说明书.阅读版.1510 下载PDF 参数设置说明书.打印版.1510 下载PDF</description>
+    </item>
+    
+    <item>
+      <title>过热蒸汽密度计算公式</title>
+      <link>http://www.bysyb.cn/post/rou3/</link>
+      <pubDate>Tue, 29 Aug 2017 16:52:15 +0800</pubDate>
+      
+      <guid>http://www.bysyb.cn/post/rou3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>饱和蒸汽密度计算公式</title>
+      <link>http://www.bysyb.cn/post/rou2/</link>
+      <pubDate>Tue, 29 Aug 2017 16:52:15 +0800</pubDate>
+      
+      <guid>http://www.bysyb.cn/post/rou2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

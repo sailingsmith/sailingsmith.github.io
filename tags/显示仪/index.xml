@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>显示仪 on 重庆宝元森仪表</title>
+    <link>http://www.bysyb.cn/tags/%E6%98%BE%E7%A4%BA%E4%BB%AA/</link>
+    <description>Recent content in 显示仪 on 重庆宝元森仪表</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright © &lt;a href=&#34;http://www.bysyb.cn/&#34;&gt;重庆宝元森仪表制造有限公司&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 29 Aug 2017 16:52:15 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.bysyb.cn/tags/%E6%98%BE%E7%A4%BA%E4%BB%AA/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>智能液晶显示仪Modbus通讯协议</title>
+      <link>http://www.bysyb.cn/post/modbus2/</link>
+      <pubDate>Tue, 29 Aug 2017 16:52:15 +0800</pubDate>
+      
+      <guid>http://www.bysyb.cn/post/modbus2/</guid>
+      <description>智能液晶显示仪.MODBUS通讯协议.pdf 下载PDF</description>
+    </item>
+    
+    <item>
+      <title>CLZ 智能液晶显示仪</title>
+      <link>http://www.bysyb.cn/products/115-clz/</link>
+      <pubDate>Tue, 15 Aug 2017 16:52:15 +0800</pubDate>
+      
+      <guid>http://www.bysyb.cn/products/115-clz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
